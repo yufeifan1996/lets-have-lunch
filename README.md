@@ -1,47 +1,51 @@
-# Let’s Have Lunch
+# Let’s Have Lunch 
 
-#### Video Demo:  <URL https://youtu.be/0B0Rbs729tk>
+## Overview
 
-#### Description:
-A full-stack web application designed to help colleagues bond and connect over shared lunches. The app facilitates the creation and management of lunch invitations, fostering collaboration and communication among users.
+**Let’s Have Lunch** is a simple full-stack web application developed as my final project for [CS50x](https://cs50.harvard.edu/x/). The goal of this project was to get hands-on experience with how the **frontend**, **backend**, and **database** work together in a full-stack system.
+
+> Disclaimer: This is a small-scale, demo-level project—a "toy project" built while learning. I experimented a lot, asked many questions to GenAI, and focused on learning by doing rather than perfection.
 
 ---
 
-## Features
+## Purpose
 
-### User Authentication:
-- Register and log in securely.
+The purpose of this project is to:
+- Understand the flow of data between frontend, backend, and database
+- Practice building a full-stack web app from scratch
+- Learn and apply React, Flask, and SQLite in a real-world scenario
 
-### User Profile:
-- View and edit your profile, including phone, company, and social media links.
+---
 
-### Create Invitations:
-- Post lunch invitations with details like time, location, and capacity.
+## Project Description
 
-### Lobby:
-- View all invitations and interact with posts.
+**Let’s Have Lunch** is designed to help colleagues connect through casual lunch meetups.  
+Users can:
+- Create lunch invitations
+- Browse upcoming lunch events
+- Join or decline invitations
+- View who’s attending
 
-### RSVP Management:
-- Request to join invitations and manage your RSVP status.
-
-### My Invitations:
-- View, edit, and delete the invitations you’ve created.
-
-### My RSVPs:
-- See the events you’ve RSVP’d to and cancel RSVPs if necessary.
-
-### Responsive Design:
-- Works seamlessly across desktops, tablets, and mobile devices.
+This simple concept aims to foster better communication, especially in multi-cultural and remote teams where casual bonding can be difficult.
 
 ---
 
 ## Technologies Used
 
-### Frontend:
-- **React.js**
+### Frontend
+- React.js
 
-### Backend:
-- **Flask**
+### Backend
+- Flask
 
-### Database:
-- **SQLite**
+### Database
+- SQLite
+
+---
+
+## Acknowledgments
+
+This project wouldn't have been possible without:
+- The amazing [CS50x](https://cs50.harvard.edu/x/) curriculum
+- Generative AI tools that guided me when I got stuck
+- Open-source documentation and communities
