@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Let’s Have Lunch** is a simple full-stack web application developed as my final project for [CS50x](https://cs50.harvard.edu/x/). The goal of this project was to get hands-on experience with how the **frontend**, **backend**, and **database** work together in a full-stack system.
+**Let’s Have Lunch** is a simple full-stack web application developed as my final project for [CS50x](https://cs50.harvard.edu/x/). The goal of this project was to get hands-on experience with how the **frontend**, **backend**, and **database** work together in a full-stack system. 
 🎥[Video Demo](https://youtu.be/0B0Rbs729tk)
 > Disclaimer: This is a small-scale, demo-level project—a "toy project" built while learning. I experimented a lot, asked many questions to GenAI, and focused on learning by doing rather than perfection.
 
