@@ -2,6 +2,7 @@
 
 ## Overview
 👉🎥[Video Demo(presentation)](https://youtu.be/0B0Rbs729tk)
+
 **Let’s Have Lunch** is a simple full-stack web application developed as my final project for [CS50x](https://cs50.harvard.edu/x/). The goal of this project was to get hands-on experience with how the **frontend**, **backend**, and **database** work together in a full-stack system.   
 ---
 
